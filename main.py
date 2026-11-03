@@ -1,2 +1,5 @@
 print("Hello, Git!")
 print("Version 2 - updated output!")
+print("output from feature-branch")
+print("output from main branch")
+print("Output from feature-branch")
